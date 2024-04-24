@@ -1,0 +1,13 @@
+{
+  "name": "scripts",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "soundfont2": "^0.4.0"
+  }
+}

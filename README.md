@@ -10,3 +10,4 @@ License: GNU Public License v3.0
 
 - SoundFont Specification: https://www.synthfont.com/SFSPEC21.PDF
 - Extract WAV files from sf2: https://www.polyphone-soundfonts.com/download
+- https://github.com/Mrtenz/soundfont2/tree/master/src/types
